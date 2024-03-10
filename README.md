@@ -1,8 +1,10 @@
 
 <div align="center">
-  <button src="https://www.linkedin.com/in/keerthiprashanth-c-650717254/" height="25" alt="LINKEDIN">Linkedin</button>
-  <button src="https://www.linkedin.com/in/keerthiprashanth-c-650717254/" height="25" alt="DISCORD"> Discord </button>
-  <button src="https://mail.google.com/mail/?view=cm&fs=1&to=ckprashanthc@gmail.com&su=SUBJECT&body=BODY" height="25" alt="GMAIL">Gmail </button>
+<button onclick="window.location.href='https://github.com/keerthiprashanth-c'" style="height: 25px;">GitHub</button>
+<button src="https://www.linkedin.com/in/keerthiprashanth-c-650717254/" height="25" alt="LINKEDIN">Linkedin</button>
+<button src="https://www.linkedin.com/in/keerthiprashanth-c-650717254/" height="25" alt="DISCORD"> Discord </button>
+<button src="https://mail.google.com/mail/?view=cm&fs=1&to=ckprashanthc@gmail.com&su=SUBJECT&body=BODY" height="25" alt="GMAIL">Gmail </button>
+
 </div>
 
 ###
