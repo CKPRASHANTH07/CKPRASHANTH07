@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">- 🌱 I’m currently learning Devops and Web3 development<br><br>- 👨‍💻 All of my projects are available at (github)<br><br>- 📝 I regularly write articles on (https://webfolio-xqt4.onrender.com/)<br><br>- 💬 Ask me about Javascript ,React<br><br>- ⚡ Fun fact : Roasting in twitter timeline is the new normal</p>
+<p align="left">- 🌱 I’m currently learning Backend<br><br>- 👨‍💻 All of my projects are available at (github)<br><br>- 💬 Ask me about Javascript ,React , Tailwind<br><br></p>
 
 ###
 
