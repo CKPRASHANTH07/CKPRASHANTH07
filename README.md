@@ -1,9 +1,16 @@
 
 <div align="center">
-<button onclick="window.location.href='https://github.com/keerthiprashanth-c'" style="height: 25px;">GitHub</button>
-<button src="https://www.linkedin.com/in/keerthiprashanth-c-650717254/" height="25" alt="LINKEDIN">Linkedin</button>
-<button src="https://www.linkedin.com/in/keerthiprashanth-c-650717254/" height="25" alt="DISCORD"> Discord </button>
-<button src="https://mail.google.com/mail/?view=cm&fs=1&to=ckprashanthc@gmail.com&su=SUBJECT&body=BODY" height="25" alt="GMAIL">Gmail </button>
+    <a href="https://www.linkedin.com/in/keerthiprashanth-c-650717254/">
+        <img src="https://camo.githubusercontent.com/4ffce98d6f992c8bda24d7041b6ba89705c03145d9d38eb9dc98f32b31ad6ab7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d4c696e6b6564496e266c6f676f3d6c696e6b6564696e266c6162656c3d26636f6c6f723d303037374235266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d706c6173746963" style="height: 25px;"/>
+    </a>
+   <a href="https://discord.com/users/prashanth#5387">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" style="height: 25px;"/>
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ckprashanthc@gmail.com&su=SUBJECT&body=BODY">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" style="height: 25px;" />
+</a>
+
+
 
 </div>
 
