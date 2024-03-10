@@ -1,13 +1,8 @@
-<div align="center">
-  <img height="150" src="https://drive.google.com/uc?id=1mKwH0hAiY_ldwgjJJvyfErk9tANU42Tk"  />
-</div>
-
-###
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/keerthiprashanth-c-650717254/" height="25" alt="linkedin logo"  />
-  <img src="https://www.linkedin.com/in/keerthiprashanth-c-650717254/" height="25" alt="discord logo"  />
-  <img src="https://mail.google.com/mail/?view=cm&fs=1&to=ckprashanthc@gmail.com&su=SUBJECT&body=BODY" height="25" alt="gmail logo"  />
+  <img src="https://www.linkedin.com/in/keerthiprashanth-c-650717254/" height="25" alt="LINKEDIN"  />
+  <img src="https://www.linkedin.com/in/keerthiprashanth-c-650717254/" height="25" alt="DISCORD"  />
+  <img src="https://mail.google.com/mail/?view=cm&fs=1&to=ckprashanthc@gmail.com&su=SUBJECT&body=BODY" height="25" alt="GMAIL"  />
 </div>
 
 ###
