@@ -1,8 +1,8 @@
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/keerthiprashanth-c-650717254/" height="25" alt="LINKEDIN"  />
-  <img src="https://www.linkedin.com/in/keerthiprashanth-c-650717254/" height="25" alt="DISCORD"  />
-  <img src="https://mail.google.com/mail/?view=cm&fs=1&to=ckprashanthc@gmail.com&su=SUBJECT&body=BODY" height="25" alt="GMAIL"  />
+  <link src="https://www.linkedin.com/in/keerthiprashanth-c-650717254/" height="25" alt="LINKEDIN"  />
+  <link src="https://www.linkedin.com/in/keerthiprashanth-c-650717254/" height="25" alt="DISCORD"  />
+  <link src="https://mail.google.com/mail/?view=cm&fs=1&to=ckprashanthc@gmail.com&su=SUBJECT&body=BODY" height="25" alt="GMAIL"  />
 </div>
 
 ###
